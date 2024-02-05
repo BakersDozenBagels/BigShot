@@ -15,7 +15,8 @@ MonoBehaviour:
   title: '[BIG SHOT]'
   author: BakersDozenBagels
   description: "HEY      EVERY      !! IT'S ME!!!\r\nEV3RY  BUDDY  'S FAVORITE [[Number
-    1 Rated Salesman1997]]\r\nSPAMT\r\nSPAMTON G. SPAMTON!!"
+    1 Rated Salesman1997]]\r\nSPAMT\r\nSPAMTON G. SPAMTON!!\n\nFind the manual at
+    https://gdane.net/manual/Big%20Shot\n\nModule id: bigShot\nSource: https://github.com/BakersDozenBagels/BigShot"
   version: 1.0
   outputFolder: build
   previewImage: {fileID: 2800000, guid: f115bf1594620e44dacc2d346290ebcb, type: 3}
